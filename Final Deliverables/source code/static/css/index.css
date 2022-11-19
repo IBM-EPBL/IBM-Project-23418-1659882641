@@ -132,8 +132,8 @@ heading .container .btn{
   opacity: 0.8;
 }
 .btn-desciption-box .btn-alt:hover{
-  background-color: #bacc00;
-  border: 2px solid #bacc00;
+  background-color: #4100cc;
+  border: 2px solid #4100cc;
 }
 .btn-desciption-box a{
   width: fit-content;
@@ -225,3 +225,4 @@ heading .container .btn{
   font-size: 1.5rem;
   
 }}
+
